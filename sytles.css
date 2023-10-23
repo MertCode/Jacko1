@@ -1,0 +1,27 @@
+head, body {
+   background: linear-gradient(to bottom, #FFA500, #FF8C00);
+}
+
+h2 {
+   font-weight: bold;
+}
+
+table, th, td {
+   border: 1px solid;
+ }
+
+ td {
+   width: 3em;
+   height: 3em;
+   text-align: left;
+   vertical-align: top;
+ }
+
+ #black {
+   background-color: black;
+ }
+
+#thistable {
+   background-color: black;
+}
+
